@@ -1,0 +1,1 @@
+E:\MyC#\GameServer\GameServer\bin\Debug\GameServer.exe.config
